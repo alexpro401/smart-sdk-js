@@ -48641,8 +48641,8 @@ var StellarSdk =
 	 * @type {{PUBLIC: string, TESTNET: string}}
 	 */
 	var Networks = {
-		PUBLIC: "Openbankit Demo ; July 2017",
-		TESTNET: "Openbankit Demo ; July 2017"
+		PUBLIC: "Sterling Sting ; WorldPass 2018",
+		TESTNET: "Sterling Sting ; WorldPass 2018"
 	};
 
 	exports.Networks = Networks;
